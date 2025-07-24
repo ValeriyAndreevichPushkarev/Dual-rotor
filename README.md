@@ -29,8 +29,7 @@ Total rotation speed is 2*W.
 
 Hysteresis frequency is W.
 
-
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/df1f1cdc-6ceb-4c38-baf2-2dbe76cc0be1" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c318e031-84d3-47f6-837c-dd86074bad53" />
 
 
 Simple winding for radial and axial two rotor motors.
