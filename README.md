@@ -41,7 +41,7 @@ You can connect motor in series.
 
 So you will get 2*N*w speed 
 
-and onle 2*N*w hysteresis losses.
+and onle 2*N*w^2 hysteresis losses.
 
 for the same speed you will get (2*N*w)^2= 4*N^2*w^2 losses
 
