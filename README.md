@@ -41,11 +41,11 @@ You can connect motor in series.
 
 So you will get 2*N*w speed 
 
-and onle 2*N*w^2 hysteresis losses.
+and only 2*N*w^2 hysteresis losses.
 
 for the same speed you will get (2*N*w)^2= 4*N^2*w^2 losses
 
-For seal connection of electric drives - 2*N*w^2
+For serial connection of electric drives - 2*N*w^2
 
 or  **(2*N) less losses for hysteresis and so on**.
 
