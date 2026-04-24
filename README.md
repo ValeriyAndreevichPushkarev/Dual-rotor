@@ -33,7 +33,7 @@ Hysteresis frequency is W.
 
 
 Simple winding for radial and axial two rotor motors.
-For a described scheme we have 2 less power for hysteresis and 4 times less power for eddy current.
+For a described scheme we have **2 times less power for hysteresis and 4 times less power for eddy current**.
 
 Most satisfying thing: 
 
